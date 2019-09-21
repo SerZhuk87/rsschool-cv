@@ -12,7 +12,8 @@ _Zhuk Siarhei_
 
 ## Summary
 
-My name is Sergey. I quickly learn new things, I love difficult tasks.
+My name is Sergey. I quickly learn new things, I love difficult tasks. 
+> The future is coming
 
 ## Skills
 
