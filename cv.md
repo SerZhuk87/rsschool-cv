@@ -50,6 +50,7 @@ Computer skills | level of ownership
   * HTML
   * CSS
 * Javascript (http://learn.javascript.ru) 
+* GitHub
 
 ## Education
 
